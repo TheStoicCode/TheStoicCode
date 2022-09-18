@@ -1,16 +1,16 @@
 <!-- ### Hi there 👋 -->
-<!-- <h1 align="center">Hi 👋, I'm Srinjoy Ray</h1> -->
+<!-- <h1 align="center">Hi 👋, I am Manjit Yadav</h1> -->
 <h1 align="center">Hi, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
-<h2> I'm Srinjoy! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
+<h2> I'm Manjit! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinjoyray&label=Profile%20views&color=0e75b6&style=flat" alt="srinjoyray" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheStoicCode&label=Profile%20views&color=0e75b6&style=flat" alt="TheStoicCode" /> </p>
 
 
 
-- 🌱 I’m currently learning **MERN stack and Flow Algorithms**
+- 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **algorithms, development and cricket**
+- 💬 Interested in **programming competitions**
 
 
 
@@ -21,33 +21,19 @@
 ### My Github Stats
 
 
-<a href="https://github.com/srinjoyray/srinjoyray">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinjoyray&&show_icons=true&theme=gotham" alt="Srinjoy's GitHub Stats" />
+<a href="https://github.com/TheStoicCode/TheStoicCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheStoicCode&&show_icons=true&theme=gotham" alt="TheStoicCode's GitHub Stats" />
 </a>
-<a href="https://github.com/srinjoyray/srinjoyray">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=srinjoyray&show_icons=true&theme=gotham" alt="Srinjoy's GitHub Stats">
+<a href="https://github.com/TheStoicCode/TheStoicCode">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheStoicCode&show_icons=true&theme=gotham" alt="TheStoicCode's GitHub Stats">
 </a>
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SrinjoyRay&show_icons=true&theme=tokyonight_duo" alt="Srinjoy's GitHub Stats"></p> 
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=srinjoyray&theme=react-dark"> -->
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheStoicCode&show_icons=true&theme=tokyonight_duo" alt="TheStoicCode's GitHub Stats"></p> 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=TheStoicCode&theme=react-dark"> -->
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/srinjoy-ray-874b031b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinjoy-ray" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/srinjoy_ray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="srinjoy_ray" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/manjitkumaryadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Manjit-Kumar-Yadav" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/stoic_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="stoic_code" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/stoic_code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="stoic_code" height="30" width="40" /></a>
 </p>
-
-<!--
-**srinjoyray/srinjoyray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
