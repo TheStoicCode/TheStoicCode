@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- <h1 align="center">Hi 👋, I am Manjit Yadav</h1> -->
 <h1 align="center">Hi, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
-<img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
+<img align='right' src="https://github.com/TheStoicCode/TheStoicCode/blob/main/laptop.gif" width="230">
 <h2> I'm Manjit! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheStoicCode&label=Profile%20views&color=0e75b6&style=flat" alt="TheStoicCode" /> </p>
